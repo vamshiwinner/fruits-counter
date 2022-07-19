@@ -1,0 +1,12 @@
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 40px;
+}
+.fruit-container {
+  background-color: red;
+  height: 100vh;
+}
+.heading {
+  color: red;
+}
